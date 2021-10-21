@@ -1,0 +1,3 @@
+﻿  TcpChat.cpp
+D:\Projects\TcpChat\TcpChat.cpp(11,29): warning C4101: 'valread': unreferenced local variable
+  TcpChat.vcxproj -> D:\Projects\TcpChat\Debug\TcpChat.exe

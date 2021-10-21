@@ -1,0 +1,2 @@
+D:\Projects\TcpChat\Debug\TcpChat.exe
+D:\Projects\TcpChat\Debug\TcpChat.pdb
